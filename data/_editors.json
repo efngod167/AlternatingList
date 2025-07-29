@@ -1,0 +1,32 @@
+[
+    {
+        "role": "owner",
+        "name": "pixelfactorial",
+        "link": "https://www.youtube.com/@pixelfactorial"
+    },
+    {
+        "role": "admin",
+        "name": "blightedcoconut",
+        "link": "https://www.youtube.com/@Blightedcoconut"
+    },
+    {
+        "role": "helper",
+        "name": "cookie498",
+        "link": "https://www.youtube.com/@galbeni7gd"
+    },
+    {
+        "role": "helper",
+        "name": "Sadisyourlife",
+        "link": "https://www.youtube.com/@justaguy8255"
+    },
+    {
+        "role": "helper",
+        "name": "Saturn",
+        "link": "https://www.youtube.com/@Saturnth"
+    },
+    {
+        "role": "dev",
+        "name": "aelzfr",
+        "link": "https://www.youtube.com/@aelzfr"
+    }
+]
