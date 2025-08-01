@@ -10,5 +10,11 @@
 	"version": "2.2",
 	"alternating": "Yes",
     "records": [
+	    {
+		    "user": "SpazeUK",
+		    "link": "https://youtu.be/CSia13RHkOI",
+		    "hz": "239",
+		    "percent": 100
+	    }
     ]
 }
