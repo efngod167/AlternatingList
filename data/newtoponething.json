@@ -1,1 +1,13 @@
-
+{
+    "id": 123932043,
+    "name": "new top one thing",
+    "author": "NotXoti",
+    "creators": ["NotXoti"],
+    "verifier": "Haruna",
+    "verification": "https://youtu.be/1l4r-RTsT6Q",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"alternating": "Yes",
+    "records": [
+    ]
+}
