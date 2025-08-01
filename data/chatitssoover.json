@@ -8,5 +8,11 @@
     "percentToQualify": "100",
 	"alternating": "Yes",
     "records": [
+	    {
+		    "user": "Sylent",
+		    "link": "https://youtu.be/Gd_F46nDsM4",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
