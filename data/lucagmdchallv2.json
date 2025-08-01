@@ -9,5 +9,11 @@
 	"version": "2.2",
 	"alternating": "Yes",
     "records": [
+	    {
+		    "user": "Duelo",
+		    "link": "https://youtu.be/5BBKCUR-F_s",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
