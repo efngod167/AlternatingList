@@ -1,1 +1,13 @@
-
+{
+    "id": 123928427,
+    "name": "habaiana challlenge",
+    "author": "NotXoti",
+    "creators": ["NotXoti"],
+    "verifier": "Haruna",
+    "verification": "https://youtu.be/CA_7SnLpxWQ",
+    "percentToQualify": "100",
+	"version": "2.2",
+	"alternating": "Yes",
+    "records": [
+    ]
+}
